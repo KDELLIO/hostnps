@@ -1,4 +1,2 @@
-202.10.48.196 growtopia1.com
-202.10.48.196 www.growtopia1.com
-202.10.48.196 growtopia2.com
-202.10.48.196 www.growtopia2.com
+202.10.48.196 g.npsid.my.id
+202.10.48.196 g.npsid.my.id
